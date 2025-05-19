@@ -1,0 +1,30 @@
+# Node (Frontend)
+node_modules/
+dist/
+.env
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (Backend)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+instance/
+.webassets-cache
+*.sqlite3
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/ 

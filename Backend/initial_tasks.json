@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "Sample Task 1",
+    "description": "This is a sample To Do task.",
+    "status": "todo",
+    "position": 0,
+    "created_by": "Alice",
+    "assigned_to": "Bob",
+    "created_at": "2025-05-18T10:00:00",
+    "updated_at": "2025-05-18T10:00:00"
+  },
+  {
+    "id": "2",
+    "title": "Sample Task 2",
+    "description": "This is a sample In Progress task.",
+    "status": "inProgress",
+    "position": 0,
+    "created_by": "Bob",
+    "assigned_to": "Alice",
+    "created_at": "2025-05-18T11:00:00",
+    "updated_at": "2025-05-18T11:00:00"
+  },
+  {
+    "id": "3",
+    "title": "Sample Task 3",
+    "description": "This is a sample Done task.",
+    "status": "done",
+    "position": 0,
+    "created_by": "Charlie",
+    "assigned_to": "Alice",
+    "created_at": "2025-05-18T12:00:00",
+    "updated_at": "2025-05-18T12:00:00"
+  }
+] 
